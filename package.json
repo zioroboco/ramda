@@ -1,0 +1,9 @@
+{
+  "name": "@zioroboco/ramda",
+  "description": "One package for ramda, ramda-adjunct and types!",
+  "version": "0.0.0",
+  "author": "Louis Quinnell <_@ziorobo.co>",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {}
+}
