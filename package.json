@@ -1,8 +1,9 @@
 {
   "name": "@zioroboco/ramda",
   "description": "One package for ramda, ramda-adjunct and types!",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Louis Quinnell <_@ziorobo.co>",
+  "repository": "git://github.com/zioroboco/ramda.git",
   "license": "ISC",
   "main": "dist",
   "scripts": {
